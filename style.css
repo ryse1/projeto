@@ -5,7 +5,7 @@
 }
 :root {
   --text-color: white;
-  --bg-url: url(./assets/bg-mobile-verde.jpg);
+  --bg-url: url(./assets/bg-desk-verde.jpg);
   --stroke-color: rgba(11, 138, 57, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(1, 27, 4, 0.845);
